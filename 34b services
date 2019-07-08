@@ -1,3 +1,6 @@
+media-item-form.component.ts
+
+
 import { Component } from '@angular/core';
 import { Validators,FormBuilder} from '@angular/forms'
 import {MediaItemService} from './media-item.service';
